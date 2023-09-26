@@ -25,7 +25,7 @@
 }
 
 body {
-  background: var(--bkg-url) -repeat top center/cover;
+  background: var(--bkg-url) no-repeat top center/cover;
 }
 body * {
   font-family: "Inter", sans-serif;
