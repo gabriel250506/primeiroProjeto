@@ -43,4 +43,4 @@ Feito com ♥ pelo gabriel  :wave:
 projeto feito no curso da <a href="https://app.rocketseat.com.br/discover" target=_blank> rocketseat;</a>
 
 
-link do <a href="(https://gabriel250506.github.io/primeiroProjeto/)" target=_blank>projeto</a>
+link do <a href="(https://gabriel250506.github.io/primeiroProjeto/)" target=_blank> projeto;</a>
